@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+	<link rel="shortcut icon" href="/favicon.ico" /> 
+    <link rel="stylesheet" type="text/css" href="/themes/bootstrap/css/styles.css" />
+
+	<link rel="stylesheet" type="text/css" href="/assets/7d883f12/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/7d883f12/css/yii.css" />
+<script type="text/javascript" src="/assets/49e8f465/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/7d883f12/js/bootstrap.min.js"></script>
+<title>Sevenga</title>
+
+	</head>
+
+<body>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46776569-2', 'sevenga.com');
+  ga('send', 'pageview');
+
+</script>
+
+
+<div class="navbar navbar-fixed-top"><div class="navbar-inner"><div class="container"><a href="/" class="brand">Sevenga</a><ul id="yw1" class="nav"><li class="active"><a href="/">Home</a></li><li><a href="/site/page?view=about">About</a></li><li><a href="/site/contact">Contact</a></li><li><a href="/privacy">Privacy Policy</a></li></ul></div></div></div>
+<div class="container" id="page">
+			<!-- breadcrumbs -->
+	
+	<div id="content">
+	
+
+<section class="container">
+	<div class="">
+		<div class="row">
+				<div class="span8">
+					<div class="row">
+						<div id="gameCarousel" class="carousel slide well">
+							<div class="abc carousel slide" id="yw0"><div class="carousel-inner"><div class="item active"><img width="100%" height="100%" src="/images/poker.png" alt="" /><div class="carousel-caption"><h4>Texas Poker Master</h4><p>Texas Poker Master</p></div></div><div class="item"><img width="100%" height="100%" src="/images/gd1.png" alt="" /><div class="carousel-caption"><h4>Galaxy Defense</h4><p>Galaxy Defense</p></div></div><div class="item"><img width="100%" height="100%" src="/images/td1.png" alt="" /><div class="carousel-caption"><h4>Tiny Defense</h4><p>Tiny Defense</p></div></div><div class="item"><img width="100%" height="100%" src="/images/sw1.png" alt="" /><div class="carousel-caption"><h4>Star Warfare</h4><p>Star Warfare</p></div></div></div><a class="carousel-control left" href="#yw0" data-slide="prev">&lsaquo;</a><a class="carousel-control right" href="#yw0" data-slide="next">&rsaquo;</a></div>						</div>
+					</div>
+
+					<div class="row">
+							<div class="well">
+								<ul class="thumbnails promo">
+									<li class="span3s game-promo promo-medium">
+										<a data-ember-action="18" href="#" class="thumbnail">
+											<img src="/images/poker-thumb.png" data-bindattr-19="19">
+											<div class="title">
+												<script id="metamorph-30-start" type="text/x-placeholder"></script>Texas Poker Master<script id="metamorph-30-end" type="text/x-placeholder"></script>
+											</div>
+											<div class="info">
+													<script id="metamorph-31-start" type="text/x-placeholder"></script>Be our fans here<script id="metamorph-31-end" type="text/x-placeholder"></script>
+											</div>
+										</a>
+									</li>
+
+
+
+									<li class="span3s game-promo promo-medium">
+										<a data-ember-action="18" href="#" class="thumbnail">
+											<img src="/images/gd1-thumb.png" data-bindattr-19="19">
+											<div class="title">
+												<script id="metamorph-30-start" type="text/x-placeholder"></script>Galaxy Defense<script id="metamorph-30-end" type="text/x-placeholder"></script>
+											</div>
+											<div class="info">
+													<script id="metamorph-31-start" type="text/x-placeholder"></script>Be our fans here<script id="metamorph-31-end" type="text/x-placeholder"></script>
+											</div>
+										</a>
+									</li>
+
+
+									<li class="span3s game-promo promo-medium">
+										<a data-ember-action="18" href="#" class="thumbnail">
+											<img src="/images/td1-thumb.png" data-bindattr-19="19">
+											<div class="title">
+												<script id="metamorph-30-start" type="text/x-placeholder"></script>Tiny Defense<script id="metamorph-30-end" type="text/x-placeholder"></script>
+											</div>
+											<div class="info">
+													<script id="metamorph-31-start" type="text/x-placeholder"></script>Be our fans here<script id="metamorph-31-end" type="text/x-placeholder"></script>
+											</div>
+										</a>
+									</li>
+
+
+									<li class="span3s game-promo promo-medium">
+										<a data-ember-action="18" href="#" class="thumbnail">
+											<img src="/images/sw1-thumb.png" data-bindattr-19="19">
+											<div class="title">
+												<script id="metamorph-30-start" type="text/x-placeholder"></script>Star Warfare<script id="metamorph-30-end" type="text/x-placeholder"></script>
+											</div>
+											<div class="info">
+													<script id="metamorph-31-start" type="text/x-placeholder"></script>Be our fans here<script id="metamorph-31-end" type="text/x-placeholder"></script>
+											</div>
+										</a>
+									</li>
+								</ul>
+							</div>
+						
+					</div>
+				</div>
+
+				<div class="span4">
+					<div class="row">
+						<div class="well span4">
+							<div class="aboutSidebar"> 
+								<div class="partnersText">
+									About Us
+								</div>
+								<div class="aboutText"> 
+									Sevenga is the best publisher for mobile games.
+								</div>
+								<br/>
+								<div class="findus">
+									<div class="sns">
+										
+                        <table style="width: auto;">
+                <tr>                
+                    <td><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a></td>
+                    <td><g:plusone size="medium"></g:plusone></td>                
+                    <td><div id="fb-root"></div><fb:like href="" send="false" layout="button_count" width="" show_faces="true" font=""></fb:like></td>
+                </tr>
+            </table>
+            
+            
+        
+									</div>
+								</div>
+							</div>
+						</div>	
+					</div>
+
+					<div class="row">
+						<div class="well span4">
+							<div class="partnersSidebar"> 
+								<div class="partnersText">
+									PARTNERS					</div>
+								<div class="partnersContentText">
+										If you have fantastic games and want to publish it worldwide, please contact us now.		
+								</div>
+								<br/>
+								<a href="/site/contact" class="btn-publish-href">
+									<div class="btn btn-primary">
+										<div class="publish_text">
+											Publish your Games							
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>	
+					</div>
+				</div>
+
+
+		</div>	
+	</div>
+</section>
+</div><!-- content -->
+
+	<div class="clear"></div>
+
+	
+
+</div><!-- page -->
+
+
+<footer class="footer">
+		<div class="container" id="footer">
+		<p class="powered">Copyright &copy; 2017 by Sevenga.</p>
+		<p class="powered">All Rights Reserved.</p>
+		</div>
+	</footer><!-- footer -->
+
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js#appId=220227991326675&amp;xfbml=1"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw0').carousel();
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

@@ -1,4 +1,5 @@
 #include "dso.h"
+#include <stdlib.h>
 #include "socket.h"
 #include <fcntl.h>
  

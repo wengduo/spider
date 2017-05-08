@@ -10,9 +10,9 @@ DYLIBNAMES=$(patsubst %.cpp,%.$(DYLIBSUFFIX),$(SOURCES))
 
 
 # Fallback to gcc when $CC is not in $PATH.
-CXX:=g++
+CXX:=g++ -std=c++11
 OPTIMIZATION?=-O2 -DNDEBUG
-WARNINGS=-Wall
+WARNINGS=-Wall -levent
 CXXFLAGS=-I../src
 REAL_CXXFLAGS=$(OPTIMIZATION) -fPIC $(CXXFLAGS) $(WARNINGS) $(DEBUG) $(PROF)
 

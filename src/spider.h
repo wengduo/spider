@@ -1,6 +1,7 @@
 #ifndef SPIDER_H
 #define SPIDER_H
  
+#include <stdlib.h>
 #include <stdarg.h>
 #include <vector>
 #include "url.h"

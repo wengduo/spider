@@ -2,6 +2,7 @@
 #include "url.h"
 #include "qstring.h"
 #include <vector>
+#include <stdlib.h>
 using namespace std;
  
 typedef struct Dlnode {
